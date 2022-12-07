@@ -1,0 +1,60 @@
+.bold {
+    font-weight: bolder;
+}
+li {
+    font-size: 17px;
+    font-style: normal;
+    font-weight: normal;
+}
+
+.italic {
+    font-style: italic;
+    color: maroon;
+}
+
+.underline {
+    text-decoration: underline;
+    color: navy;
+}
+
+.center {
+    text-align: center;
+}
+
+body {
+    background-color: #B1A296;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#hp  {
+    float: right;    
+     margin: 0 0 0 15px;
+    }
+
+
+.gcolor {
+  color: navy;
+}
+
+a:hover {
+    text-decoration: underline;
+    font-weight: bolder;
+    font-size: large;
+}
+
+.namet {
+    font-size: xx-large;
+    font-weight: bolder;
+    text-decoration:dotted;
+}
+
+.footer {
+    bottom: 5px;
+    left: 5px;
+    right: 5px;
+    height: 25px;
+    font-size: medium;
+    color: gainsboro;
+    text-align: center;
+    padding: 20px;
+}
